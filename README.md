@@ -36,12 +36,13 @@
 
 ##Wireframe
 
+
 ![Imgur](https://i.imgur.com/wRVi3h6.jpg)
 ![Imgur](https://i.imgur.com/J6WRIDf.jpg)
 ![Imgur](https://i.imgur.com/4Qu4woj.jpg)
-
 ##ERD
 ![Imgur](https://i.imgur.com/kCPcppc.png)
+[Imgur](https://i.imgur.com/BYZjHQo.png)
 
 ##Time Estimates
 
